@@ -1,4 +1,4 @@
-<h1 align="center">In ALl Programming Languages</h1>
+<h1 align="center">In All Programming Languages</h1>
 <p align="center">
     Welcone to our orgnization! 👋
     <br>
