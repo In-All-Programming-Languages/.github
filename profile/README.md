@@ -48,4 +48,4 @@ We have few rules to control what languages we can add and what not - as it's ab
 
 ### General Members
 - [iIEkoT](https://github.com/iIEkoT) (Jaffa, Palastine 🇵🇸)
-- [Khayal Dev](https://github.com/Khayal-Dev) (, Saudi Arabia 🇸🇦)
+- [Khayal Dev](https://github.com/Khayal-Dev) (Riyadh, Saudi Arabia 🇸🇦)
