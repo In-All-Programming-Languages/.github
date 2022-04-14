@@ -4,7 +4,7 @@
     <br>
     We're making <b>open-source educational projects</b> in all known languages.
     <br>
-    <u>We don't literally make "all programming languages", only languages that matchs our <a href="README.md/#rules">rules</a></u>
+    <u>We don't literally make "all programming languages", only languages that matchs our <a href="README.md/#-rules--">rules</a></u>
     <br>
     The main purpose of our work is to show how things can be made in other languages.
     <br>
